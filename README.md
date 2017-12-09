@@ -1,2 +1,6 @@
 # yΩ
-React compomnent scaffolder
+React component scaffolder
+
+```
+yo mega
+```
