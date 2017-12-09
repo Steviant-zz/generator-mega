@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Steve Mitchell",
+      "authorEmail": "steve@steviant.co.uk",
+      "authorUrl": ""
+    }
+  }
+}
